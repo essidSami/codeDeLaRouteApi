@@ -872,7 +872,7 @@
         "title": "عند وقوع عطب بالطريق السيارة ، أتصل ب",
         "img": "exam2/img11.enc",
         "justificationText": "عند وقوع عطب بالطريق السيارة، أتصل بالشرطة أو بالحرس الوطني.",
-        "correctAnswer": 1,
+        "correctAnswer": 0,
         "chosenAnswer": -1,
         "answer": [
           {
